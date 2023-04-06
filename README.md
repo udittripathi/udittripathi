@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**udittripathi/udittripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1 align="center">Hi 👋, I'm Sarthak <img height="40" src="(https://emoji.gg/assets/emoji/6189-mariobros-mariohello.gif"></h1>
+<h1 align="center">Hi 👋, I'm Udit <img height="40" src="(https://emoji.gg/assets/emoji/6189-mariobros-mariohello.gif"></h1>
 <h3 align="center">A passionate Macine Learning and Front-End  developer from India</h3>
 
 - 🔭 I’m currently working on my Web skills.
@@ -53,4 +48,4 @@
 ------
 
 [Udit Tripathi](https://github.com/udittripathi)
--->
+
